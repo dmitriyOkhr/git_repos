@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/git_repos/static/css/main.04d5c45c.css",
+    "main.js": "/git_repos/static/js/main.d44ef421.js",
+    "index.html": "/git_repos/index.html",
+    "main.04d5c45c.css.map": "/git_repos/static/css/main.04d5c45c.css.map",
+    "main.d44ef421.js.map": "/git_repos/static/js/main.d44ef421.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04d5c45c.css",
+    "static/js/main.d44ef421.js"
+  ]
+}
